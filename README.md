@@ -1,6 +1,10 @@
-### Welcome, you have stumbled upon my github somehow out of the millions of pages on the internet.
+### Welcome internet explorer, you have stumbled upon my github somehow out of the millions of pages on the web.
 
-I am currently advancing robot design to push the human curiosity forward.
+2020 update: I am currently advancing robot design to push human curiosity forward.
+
+<p align='center'>
+<a href="https://gustavojcorrea.com"><img height="500" src="https://github.com/gustavojcorrea/gustavojcorrea/blob/master/love_death_robots.jpg"></a>
+</p>
 
 <!--
 **gustavojcorrea/gustavojcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

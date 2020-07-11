@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome, you have stumbled upon my github somehow out of the millions of pages on the internet.
+
+I am currently advancing robot design to push the human curiosity forward.
 
 <!--
 **gustavojcorrea/gustavojcorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

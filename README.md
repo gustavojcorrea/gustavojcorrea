@@ -1,4 +1,4 @@
-### Welcome internet explorer, you have stumbled upon my github somehow out of the millions of pages on the web.
+### Welcome internet explorer, you have somehow stumbled upon my github page out of the millions of web pages existing today.
 
 2020 update: I am currently advancing robot design to push human curiosity forward.
 

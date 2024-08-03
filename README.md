@@ -1,5 +1,7 @@
 ### Welcome internet explorer, you have somehow stumbled upon my github page out of the millions of web pages existing today.
 
+2024 update: living, running, walking, lifting, training, learning, creating
+
 2023 update: Building, Building, and more Buildings
 
 2022 update: Philosophing life with the help of code & computers
